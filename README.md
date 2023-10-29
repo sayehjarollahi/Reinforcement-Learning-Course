@@ -13,5 +13,3 @@ Semester: Sprint 2023
 * HW3:
   * Thompson Sampling implementation
   * Monte-Carlo Tree Search Implementatio
-* HW4:
-  * Soft Actor-Critic(SAC) Algorithm Implementation
